@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-myriad-hebrew: "Myriad Hebrew";
+
+  /* font sizes */
+  --font-size-46xl: 65px;
+  --font-size-18xl: 37px;
+  --font-size-12xl: 31px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+
+  /* Border radiuses */
+  --br-22xl: 41px;
+}
